@@ -1,0 +1,6 @@
+{
+  "name": "Mian's AI",
+  "description": "Next-generation intelligent AI assistant capable of reasoning, coding, writing, research, creative design, image generation, and multi-modal problem solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
